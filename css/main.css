@@ -5,7 +5,10 @@
    ========================================================================== */
 
 
-
+body {
+  background-image: url("img/skulls.png");
+  // background-color: aquamarine;
+}
 
 
 
